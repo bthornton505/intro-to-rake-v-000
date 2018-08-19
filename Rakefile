@@ -20,4 +20,6 @@ namespace :db do
     Student.create_table
     puts "This worked"
   end 
+  
+  desc ''
 end 
