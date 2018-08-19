@@ -21,5 +21,6 @@ namespace :db do
     puts "This worked"
   end 
   
-  desc ''
+  desc 'seed the database with some dummy data'
+  task :seed do 
 end 
