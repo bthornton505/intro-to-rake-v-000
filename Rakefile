@@ -2,6 +2,7 @@ task :environment do
   require_relative './config/environment'
 end 
 
+desc "Drop into "
 task :console => :environment do 
   
 
