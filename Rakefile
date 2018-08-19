@@ -1,4 +1,5 @@
 task :environment do 
+  require_relative ''
 
 
 namespace :greeting do 
