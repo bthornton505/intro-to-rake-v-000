@@ -11,5 +11,5 @@ namespace :greeting do
 end 
 
 namespace :db do 
-  
+  desc 'migrate '
 end 
